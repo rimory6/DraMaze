@@ -42,11 +42,6 @@ bash example/run.sh \
 
 Use a new output directory for each run.
 
-To check input selection and run settings without making model API requests:
-
-```bash
-bash example/run.sh --dry-run
-```
 
 ## Continue from Existing Outlines
 
