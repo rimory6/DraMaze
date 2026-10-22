@@ -50,7 +50,7 @@ bash example/run.sh --dry-run
 
 ## Continue from Existing Outlines
 
-To generate screenplays from an existing run directory containing completed episode outlines:
+To generate scripts from an existing run directory containing completed episode outlines:
 
 ```bash
 bash example/run.sh --from-outline output/existing_run --output-dir output/continued_run
