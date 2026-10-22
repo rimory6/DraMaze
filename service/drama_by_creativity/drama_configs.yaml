@@ -1,0 +1,7 @@
+drama:
+  scene_nums_min: 1
+  scene_nums_max: 3
+  word_nums: "700-1000"
+  per_scene_word_range:
+    min: 600
+    max: 1200
